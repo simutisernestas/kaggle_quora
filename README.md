@@ -1,4 +1,4 @@
-# Kaggle competition 
-# Quora Insincere Questions Classification
+# Kaggle Quora Insincere Questions Classification
 
-My best submission notebook. [Kaggle profile](https://www.kaggle.com/earnye).
+ - [Competition link](https://www.kaggle.com/c/quora-insincere-questions-classification)
+ - [My submission](https://www.kaggle.com/earnye/earny88?scriptVersionId=9937838)
